@@ -11,7 +11,7 @@ Proyek Java yang menunjukkan struktur data doubly linked list dengan operasi pen
 - **🔍 LinkedList.java**: Kelas utama untuk mengelola operasi seperti `addFirst`, `addLast`, `removeFirst`, `removeLast`, `search`, dan `toString`.
 - **🛠️ linkListMain.java**: Kelas utama untuk menguji operasi linked list dengan menambahkan dan menghapus elemen secara berurutan.
 
-Proyek ini terdiri dari tiga file Java (`linkListMain.java`, `LinkedList.java`, `ListNode.java`) dalam paket **PERTEMUAN1**. Cocok untuk pemula yang ingin mempelajari struktur data linked list. 🟢
+Proyek ini terdiri dari tiga file Java (`linkListMain.java`, `LinkedList.java`, `ListNode.java`) dalam paket **PERTEMUAN1**.🟢
 
 ## 🧠 Teknologi
 - Java
@@ -20,10 +20,9 @@ Proyek ini terdiri dari tiga file Java (`linkListMain.java`, `LinkedList.java`, 
 ```
 Doubly_LinkedList_Java/
 ├── src/PERTEMUAN1/
-│   ├── linkListMain.java        # 🛠️ Kelas utama untuk pengujian
-│   ├── LinkedList.java          # 🔍 Kelas untuk operasi linked list
-│   ├── ListNode.java            # 📊 Kelas node linked list
-├── README.md                    # 📖 Dokumentasi proyek
+├── linkListMain.java        # 🛠️ Kelas utama untuk pengujian
+├── LinkedList.java          # 🔍 Kelas untuk operasi linked list
+├── ListNode.java            # 📊 Kelas node linked list
 ```
 
 ## ▶️ Menjalankan Program
