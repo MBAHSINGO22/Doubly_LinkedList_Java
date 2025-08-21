@@ -5,7 +5,7 @@ Proyek Java yang menunjukkan struktur data doubly linked list dengan operasi pen
 
 ## 📖 Deskripsi Proyek
 
-**Doubly_LinkedList_Java** adalah proyek pembelajaran Java yang mengimplementasikan doubly linked list dengan node yang memiliki referensi ke node sebelum dan sesudahnya. Proyek ini berfokus pada:
+**Doubly_LinkedList_Java** adalah proyek Java yang mengimplementasikan doubly linked list dengan node yang memiliki referensi ke node sebelum dan sesudahnya. Proyek ini berfokus pada:
 
 - **📊 ListNode.java**: Kelas dasar untuk node dengan nilai integer, referensi `next`, dan `prev`.
 - **🔍 LinkedList.java**: Kelas utama untuk mengelola operasi seperti `addFirst`, `addLast`, `removeFirst`, `removeLast`, `search`, dan `toString`.
