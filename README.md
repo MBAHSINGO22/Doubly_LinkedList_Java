@@ -25,33 +25,6 @@ Doubly_LinkedList_Java/
 ├── ListNode.java            # 📊 Kelas node linked list
 ```
 
-## ▶️ Menjalankan Program
-
-1. **Kloning Repositori**:
-   ```bash
-   git clone https://github.com/MBAHSINGO22/Doubly_LinkedList_Java.git
-   cd Doubly_LinkedList_Java
-   ```
-
-2. **Pastikan Java Terinstal:**
-   ```bash
-   java -version
-   ```
-   Jika belum terinstal, unduh dari [java.com](https://www.java.com).
-
-3. **Kompilasi dan Jalankan Kode:**
-   Pastikan struktur paket dipertahankan.
-
-   Kompilasi:
-   ```bash
-   javac -d bin src/PERTEMUAN1/*.java
-   ```
-
-   Jalankan:
-   ```bash
-   java -cp bin PERTEMUAN1.linkListMain
-   ```
-
 ## 🟢 Catatan
 - Pastikan Anda memiliki Java Development Kit (JDK) yang terinstal.
 - Linked list diinisialisasi sebagai **circular doubly linked list** dengan `head` sebagai sentinel node.
