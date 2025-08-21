@@ -26,7 +26,6 @@ Doubly_LinkedList_Java/
 ```
 
 ## 🟢 Catatan
-- Pastikan Anda memiliki Java Development Kit (JDK) yang terinstal.
 - Linked list diinisialisasi sebagai **circular doubly linked list** dengan `head` sebagai sentinel node.
 - Operasi seperti `addFirst`, `addLast`, dan `removeFirst`/`removeLast` mengelola ukuran list secara dinamis.
 - Pencarian dilakukan dengan metode `search` yang mengembalikan node jika ditemukan.
