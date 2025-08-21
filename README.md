@@ -1,4 +1,4 @@
-# 📝 Doubly LinkedList_Java
+# 📝 Doubly LinkedList Java
 
 Implementasi Doubly Linked List di Java  
 Proyek pembelajaran Java yang menunjukkan struktur data doubly linked list dengan operasi penambahan, penghapusan, pencarian, dan tampilan elemen.
